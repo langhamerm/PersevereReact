@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "title": "Learn Redux",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Learn React Native",
+      "completed": false
+    },
+    {
+      "title": "Test!",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Hello!",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Conquer the world!",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "Goodbye!",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
